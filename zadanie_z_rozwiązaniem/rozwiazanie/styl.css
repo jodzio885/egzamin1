@@ -1,0 +1,46 @@
+*{
+    font-family: georgia;
+    color: white;
+    display: flex;
+}
+
+.baner footer{
+    background-color: maroon;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+.left .right main{
+    background-color: lightsalmon;
+    height: 527px;
+}
+
+.left .right{
+    width: 15%;
+}
+
+main{
+    width: 70%;
+}
+
+section{
+    background-color: maroon;
+    height: 70px;
+}
+
+button{
+    background-color: lightsalmon;
+    color: maroon;
+    border-style: none;
+    font-size: 400%;
+    display: block;
+    margin: auto;
+    padding-top: 210px;
+}
+
+section .img{
+    height: 70px;
+    animation-duration: 4s;
+    
+}
